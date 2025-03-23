@@ -114,5 +114,5 @@ project-name/
   - Photos used in this project were sourced from my Instagram: [@hi.shubham.shakya](https://www.instagram.com/hi.shubham.shakya/)
   - Additional photos were provided by my friend: [@artify_nik](https://www.instagram.com/artify_nik/),  [@omjangid1](https://www.instagram.com/omjangid1/)
 - **Contributors**: This project was created during the **UB Hackathon 2024** with the collaboration of my amazing teammates:
-  - [Praanav Bhowmik](https://github.com/PraanavBhowmik15) 
+  - [Shubham Shakya](https://github.com/Shubby98) 
   - [Vaibhav Sharma](https://github.com/vaibhaaavvv)
